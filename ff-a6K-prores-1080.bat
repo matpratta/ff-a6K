@@ -2,7 +2,7 @@
 
 rem Uncomment for logging -> debug
 
-SET "LOGGING=1"
+rem SET "LOGGING=1"
 
 rem Downscaling algorithm
 
