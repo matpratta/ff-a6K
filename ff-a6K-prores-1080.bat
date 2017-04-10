@@ -61,5 +61,3 @@ IF "%LOGGING%" == "1" (
 ) ELSE (
     ffmpeg -hide_banner -loglevel panic %FF_OPTIONS%
 )
-
-pause
